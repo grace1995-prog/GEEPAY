@@ -1,0 +1,16 @@
+{
+  "name": "geepay",
+  "version": "1.0.0",
+  "main": "signup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.6.6",
+    "cypress-mailslurp": "^1.9.0",
+    "mailslurp-client": "^15.18.2"
+  }
+}
